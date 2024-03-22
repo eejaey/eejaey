@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Master's in Business Administration.
-- 💬 Ask me about life insurance misconceptions and health insurance; I'm licensed to write for six states.
+- 🌱 I’m currently learning to use R and RStudio
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I love playing VR games.
 
